@@ -1,39 +1,14 @@
-commit 31b32da457454928912b8d9a9fdc175da19eb31b
+commit d0b960e6d0d1ae58e96cefb3b9b83bdec0eedac5
 Author: juanjomac <juanjo_mac@hotmail.com>
-Date:   Fri Jul 20 12:27:55 2018 -0300
+Date:   Sun Jul 22 13:02:00 2018 -0300
 
-    Modificacion final
+    Cuarta estrofa
 
-commit 1eb6bde75b5e9c81dd1c9243e84f184f3b4c7835
+commit 6e62b183513d2bb08a1dc0a24877b345b93a95d2
 Author: juanjomac <juanjo_mac@hotmail.com>
-Date:   Fri Jul 20 12:15:22 2018 -0300
+Date:   Fri Jul 20 16:01:50 2018 -0300
 
-    Todos los archivos agregados
-
-commit d2255ce896f51eca001f0754d8b38fd9ea3a69e9
-Merge: 6438dec 567ef8a
-Author: juanjomac <juanjo_mac@hotmail.com>
-Date:   Thu Jul 19 13:53:44 2018 -0300
-
-    Merge branch 'test'
-
-commit 567ef8a8425cad9f42651ae440f84e5e863e1233
-Author: juanjomac <juanjo_mac@hotmail.com>
-Date:   Thu Jul 19 13:46:47 2018 -0300
-
-    Los cambios por afuera
-
-commit 6438dec07a00e49bbaf3bb36bb72c5958a886538
-Author: juanjomac <juanjo_mac@hotmail.com>
-Date:   Thu Jul 19 10:36:40 2018 -0300
-
-    Agregue la segunda estrofa
-
-commit bc999fb17ed51f0ea9270c915d7b85ac5df4ae69
-Author: juanjomac <juanjo_mac@hotmail.com>
-Date:   Thu Jul 19 10:23:28 2018 -0300
-
-    Agrego primera estrofa
+    Primer commit de la segunda Rama
 
 commit d962c313fe6c20ae58aeae61e9b90d93df43c56b
 Author: juanjomac <juanjo_mac@hotmail.com>
